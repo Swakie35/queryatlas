@@ -1,5 +1,7 @@
 # QueryAtlas
 
+[![CI](https://github.com/Swakie35/queryatlas/actions/workflows/ci.yml/badge.svg)](https://github.com/Swakie35/queryatlas/actions/workflows/ci.yml)
+
 **A small warehouse you can actually run, inspect and explain.**
 
 I use this project to show the SQL decisions that matter between raw operational events and reporting: dimensional modelling, input contracts, idempotent loads, integer currency, refund netting, indexes and useful analytical window functions.
