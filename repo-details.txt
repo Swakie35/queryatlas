@@ -1,0 +1,3 @@
+GitHub name: queryatlas
+Description: Executable SQL analytics warehouse with star schema, incremental upserts and window reports.
+Topics: sql,data-engineering,analytics-engineering,sqlite
